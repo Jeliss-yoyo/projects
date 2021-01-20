@@ -1,4 +1,4 @@
-# nkplat-dsms
+# nkplat-design
 
 ## Project setup
 ```
