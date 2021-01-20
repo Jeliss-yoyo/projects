@@ -1,0 +1,58 @@
+{
+  "id": "1524029",
+  "name": "nk-dataV",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1058900",
+      "name": "图表 2",
+      "font_class": "chart-pie",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1415524",
+      "name": "all",
+      "font_class": "all",
+      "unicode": "e83c",
+      "unicode_decimal": 59452
+    },
+    {
+      "icon_id": "1766277",
+      "name": "图表-折线图",
+      "font_class": "chart-line",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "6582347",
+      "name": "地图",
+      "font_class": "chart-map",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "8325668",
+      "name": "图表 柱状图",
+      "font_class": "chart-bar",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8570131",
+      "name": "图表 多维柱状图 (1)",
+      "font_class": "chart-bar2",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12436618",
+      "name": "多行文本",
+      "font_class": "text-title",
+      "unicode": "e83d",
+      "unicode_decimal": 59453
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+	"chart": {
+		"bar": {
+			"icon": "icon-chart-bar",
+			"item": [
+				{
+					"name": "基本柱状图",
+					"component": "eBaseBar",
+					"image": "bar01"
+				}
+			]
+		},
+		"line": {
+			"icon": "icon-chart-line",
+			"item": [
+				{
+					"init": "echarts",
+					"name": "基本折线图",
+					"code": "baseLine",
+					"image": "line01"
+				}
+			]
+		},
+		"pie": {
+			"icon": "icon-chart-pie",
+			"item": [
+				{
+					"init": "echarts",
+					"name": "基本饼图",
+					"code": "basePie",
+					"image": "pie01"
+				}
+			]
+		}
+	},
+	"text": {
+		"title": {
+			"icon": "icon-text-title",
+			"item": [
+				{
+					"init": "general",
+					"name": "通用标题",
+					"code": "afxTitle",
+					"image": "title01"
+				}
+			]
+		}
+	}
+}
